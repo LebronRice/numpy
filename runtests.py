@@ -40,7 +40,7 @@ SAMPLE_TEST = "numpy/linalg/tests/test_linalg.py::test_byteorder_check"
 SAMPLE_SUBMODULE = "linalg"
 
 EXTRA_PATH = ['/usr/lib/ccache', '/usr/lib/f90cache',
-              '/usr/local/lib/ccache', '/usr/local/lib/f90cache']
+              '/usr/local/lib/ccache', '/usr/local/lib/f90cache', '/opt/fortanix/enclave-os/lib']
 
 # ---------------------------------------------------------------------
 
